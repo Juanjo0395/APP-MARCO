@@ -1,5 +1,5 @@
 """
-Dashboard de nivel de estación hidrológica — CORNARE
+Dashboard "Rionegro, Quebrada Yarumal"
 
 Estudiante: Juan José Gallo
 Estación fija: 5
@@ -66,7 +66,7 @@ CANDIDATOS_LON = [
 
 st.set_page_config(
     page_title="Nivel — Rionegro Quebrada Yarumal",
-    page_icon="🌊",
+    page_icon="😎",
     layout="wide"
 )
 
