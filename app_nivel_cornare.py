@@ -3,7 +3,7 @@ Dashboard "Rionegro, Quebrada Yarumal"
 
 Estudiante: Juan José Gallo
 Estación fija: 5
-Nombre: Rionegro, Quebrada Yarumal
+Nombre: Rionegro,Quebrada Yarumal
 
 Para correr:
     streamlit run app_nivel_cornare.py
