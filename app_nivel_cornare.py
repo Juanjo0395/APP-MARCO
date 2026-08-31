@@ -1,13 +1,3 @@
-"""
-App básica de Streamlit — Nivel de ríos/quebradas (CORNARE / MARCO)
---------------------------------------------------------------------
-Cada estudiante debe cambiar, como mínimo, el código de la estación
-en el sidebar. Los valores de fecha y calidad también son ajustables.
-
-Para correrla:
-    streamlit run app_nivel_cornare.py
-"""
-
 import requests
 import pandas as pd
 import numpy as np
