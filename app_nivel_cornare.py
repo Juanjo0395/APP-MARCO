@@ -1,7 +1,7 @@
 """
 App básica de Streamlit — Nivel de ríos/quebradas (CORNARE / MARCO)
 --------------------------------------------------------------------
-Cada estudiante debe cambiar, como mínimo, el código de la estación
+Cada estudiante debe cambiar, como mínimo, el código de la estación y epa
 en el sidebar. Los valores de fecha y calidad también son ajustables.
 
 Para correrla:
