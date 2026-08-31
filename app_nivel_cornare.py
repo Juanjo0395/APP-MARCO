@@ -305,7 +305,7 @@ def calcular_indice_calidad(df):
 # SIDEBAR
 # ================================================================
 
-st.sidebar.title("🌊 Mi estación")
+st.sidebar.title(" Mi estación")
 
 st.sidebar.success(
     f"Estudiante: {NOMBRE_ESTUDIANTE}"
@@ -502,7 +502,7 @@ if consultar:
             # ====================================================
 
             st.subheader(
-                "📊 Información de la estación"
+                " Información de la estación"
             )
 
             col1, col2, col3, col4 = st.columns(4)
@@ -548,7 +548,7 @@ if consultar:
             # ====================================================
 
             st.subheader(
-                "📍 Ubicación de la estación"
+                " Ubicación de la estación"
             )
 
             col1, col2 = st.columns([2, 1])
